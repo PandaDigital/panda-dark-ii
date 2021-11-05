@@ -1,0 +1,21 @@
+{
+    "name": "panda-dark-ii",
+    "displayName": "Panda Dark II",
+    "description": "Another Comfortable Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Panda Dark II",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Panda Dark II-color-theme.json"
+            }
+        ]
+    }
+}
