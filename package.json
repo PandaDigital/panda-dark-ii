@@ -3,6 +3,8 @@
     "displayName": "Panda Dark II",
     "description": "Another Comfortable Theme",
     "version": "0.0.1",
+    "publisher": "PandaDigitalLLC",
+    "author": "Phil Reichner",
     "engines": {
         "vscode": "^1.62.0"
     },
@@ -17,5 +19,15 @@
                 "path": "./themes/Panda Dark II-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/PandaDigital/panda-dark-ii.git"
+    },
+    "license": "MIT",
+    "icon": "img/pandaDigital.png",
+    "galleryBanner": {
+        "color": "#009688",
+        "theme": "dark"
     }
 }
